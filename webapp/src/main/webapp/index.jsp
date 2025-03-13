@@ -33,6 +33,6 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> Happy Learning Rathna kumar.m.... </h1>
+   <h1> Happy Learning Rathna kumar.M.... </h1>
    
 </form>
